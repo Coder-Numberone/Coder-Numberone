@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Coder-Numberone
-- 👀 I’m interested in Video/Live Streaming/DevOps Engineering and back-end development.
+- 👀 I’m interested in Video/Live streaming, DevOps Engineering and back-end development.
 - 🌱 I’m currently learning agile devops engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
